@@ -66,6 +66,9 @@ public class TestScript {
 		p.getDropDown().click();
 		p.getLogoutButton().click();
 		
+		//close
+		driver.close();
+		
 	}
 	
 	}
